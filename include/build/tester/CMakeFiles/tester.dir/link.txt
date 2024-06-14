@@ -1,0 +1,1 @@
+/usr/bin/c++ -fopenmp -O3 -DNDEBUG CMakeFiles/tester.dir/tester.cpp.o -o ../bin/tester  ../lib/libstudentlib.a 
